@@ -1,1 +1,1 @@
-# simple_window
+my first cpp project!
